@@ -1,1 +1,1 @@
-# Laboratory-Work-4-Activity-Improving-CNN-Performance-Using-Regularization
+# LW4_Improving-CNN-Performance
